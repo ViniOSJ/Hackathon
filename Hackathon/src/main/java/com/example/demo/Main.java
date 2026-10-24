@@ -19,5 +19,7 @@ public class Main {
             System.out.println("Valor: " + r.getValorNominal());
             System.out.println("-------------------------");
         }
+        BancoRapido.salvarDado("Time 1", "Projeto X");
     }
+
 }
