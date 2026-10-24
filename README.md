@@ -1,3 +1,8 @@
+Grupo ALVILA
+Alexandra Silvestre de Souza da Silva
+Larissa Santana Silva
+Vinicius Oliveira Santos de Jesus
+
 Sistema de Validação de Recebíveis — ANTECIPE FIDC
 Sobre o projeto
 Este projeto é uma aplicação desenvolvida em Java com Spring Boot para importar, armazenar, consultar e validar recebíveis a partir de arquivos CSV.
