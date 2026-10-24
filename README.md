@@ -11,7 +11,7 @@ Sobre o projeto
 Este projeto é uma aplicação desenvolvida em Java com Spring Boot para importar, armazenar, consultar e validar recebíveis a partir de arquivos CSV.
 O sistema verifica se cada recebível atende às regras de negócio configuradas para o fundo ANTECIPE FIDC. Ao final da validação, cada registro pode ser classificado como APROVADO ou BARRADO, com os motivos de reprovação quando houver. Para recebíveis aprovados, o sistema também calcula o valor de compra estimado com base em uma taxa de desconto simples.
 Funcionalidades
-Leitura de recebíveis a partir de um arquivo CSV.
+Leitura de recebíveis a partir de um arquivo CSV (Favor deixar o nome do arquivo de: "recebiveis.csv", e " cnpj_situacao_mock.csv ").
 Validação da estrutura do arquivo e das informações dos registros.
 Importação dos recebíveis para um banco de dados SQLite.
 Consulta dos recebíveis armazenados por meio de uma API REST.
