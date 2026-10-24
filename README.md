@@ -3,7 +3,8 @@ Grupo ALVILA
 
 Alexandra Silvestre de Souza da Silva ,
 Larissa Santana Silva, 
-Vinicius Oliveira Santos de Jesus, 
+Vinicius Oliveira Santos de Jesus
+
 
 Sistema de Validação de Recebíveis — ANTECIPE FIDC
 Sobre o projeto
